@@ -9,7 +9,7 @@ let package = Package(
   name: "NordicDFU",
   platforms: [
     .macOS(.v10_14),
-    .iOS(.v9),
+    .iOS(.v12),
     .watchOS(.v4),
     .tvOS(.v11)
   ],
